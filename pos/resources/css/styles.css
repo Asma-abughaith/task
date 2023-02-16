@@ -1,0 +1,36 @@
+#password-requirements {
+	background-color: rgba(247, 185, 230, 0.786);
+	color: rgb(74, 72, 72);
+
+  }
+  
+  #password-requirements li {
+	list-style-type: disc;
+	margin-left: 20px;
+  }
+
+  #password-match {
+	background-color: rgba(242, 154, 217, 0.786);
+	color: rgb(74, 72, 72);
+  }
+  .swal2-select {
+	font-size: 16px;
+	padding: 15px;
+	border-radius: 5px;
+	border: 2px solid #ddd;
+	background-color: #f9f9f9;
+	width: 58%;
+	margin: 10px 0;
+  }
+  
+  .swal2-select:focus {
+	outline: none;
+	border-color: #007bff;
+  }
+  .red{
+	color:rgb(243, 29, 29);
+  }
+  .green{
+	color:rgb(13, 167, 13);
+  }
+ 
